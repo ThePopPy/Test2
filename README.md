@@ -21,12 +21,17 @@ Then go to the browser and enter the url **http://127.0.0.1:8000/**
 
 📸 Website Preview
 
+### Home Page
 ![screenshot of homepage](screenshots/screenshot1.png)
 
+### Showcase Page
 ![screenshot of homepage](screenshots/screenshot2.png)
 
+### Activity Page
 ![screenshot of homepage](screenshots/screenshot3.png)
 
+### Alumni Page
 ![screenshot of homepage](screenshots/screenshot4.png)
 
+### Ethereum Voting DApp Page
 ![screenshot of homepage](screenshots/screenshot5.png)
